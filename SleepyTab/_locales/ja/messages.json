@@ -1,0 +1,49 @@
+{
+  "extName": {
+    "message": "SleepyTab"
+  },
+  "extDesc": {
+    "message": "タブを離れると再生停止・ミュート、戻ると再開・ミュート解除を自動的に行えます"
+  },
+  "Loading": {
+    "message": "読み込み中..."
+  },
+  "MuteTabFeature": {
+    "message": "タブのミュート機能"
+  },
+  "AddSitePlaceholder": {
+    "message": "サイトを追加"
+  },
+  "AddButton": {
+    "message": "追加"
+  },
+  "ConfirmDeleteMessage": {
+    "message": "本当に削除しますか？"
+  },
+  "DeleteButton": {
+    "message": "削除"
+  },
+  "CancelButton": {
+    "message": "キャンセル"
+  },
+  "Active": {
+    "message": "有効中",
+    "description": "機能が設定で有効化されている状態を示すラベル。"
+  },
+  "Disabled": {
+    "message": "無効中",
+    "description": "機能が設定で無効化されている状態を示すラベル。"
+  },
+  "ActiveMessage": {
+    "message": "タブ移動で動画を自動停止/再開します",
+    "description": "自動制御機能が有効になっている状態を示すメッセージ。"
+  },
+  "DisabledMessage": {
+    "message": "自動制御はオフです",
+    "description": "自動制御機能が無効になっている状態を示すメッセージ。"
+  },
+  "DeleteMessage": {
+    "message": "＄1を削除しますか？",
+    "description": "サイト情報を削除する前の確認メッセージ"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "extName": {
+    "message": "SleepyTab"
+  },
+  "extDesc": {
+    "message": "Automatically pause and mute playback when switching away from a tab, and resume and unmute when returning."
+  },
+  "Loading": {
+    "message": "Loading..."
+  },
+  "MuteTabFeature": {
+    "message": "Mute Tab Feature"
+  },
+  "AddSitePlaceholder": {
+    "message": "Add a site"
+  },
+  "AddButton": {
+    "message": "Add"
+  },
+  "ConfirmDeleteMessage": {
+    "message": "Are you sure you want to delete this?"
+  },
+  "DeleteButton": {
+    "message": "Delete"
+  },
+  "CancelButton": {
+    "message": "Cancel"
+  },
+  "Active": {
+    "message": "Active",
+    "description": "機能が設定で有効化されている状態を示すラベル。"
+  },
+  "Disabled": {
+    "message": "Disabled",
+    "description": "機能が設定で無効化されている状態を示すラベル。"
+  },
+  "ActiveMessage": {
+    "message": "Automatically pause/resume videos when switching tabs",
+    "description": "自動制御機能が有効になっている状態を示すメッセージ。"
+  },
+  "DisabledMessage": {
+    "message": "Auto Control: Off",
+    "description": "自動制御機能が無効になっている状態を示すメッセージ。"
+  },
+  "DeleteMessage": {
+    "message": "Are you sure you want to delete $1?",
+    "description": "サイト情報を削除する前の確認メッセージ"
+  }
+}

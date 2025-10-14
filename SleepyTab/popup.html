@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>SleepyTab</title>
+  <link rel="stylesheet" href="popup.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <!-- タイトル中央 + ON/OFFボタン右 -->
+    <div class="header">
+      <h1>😴SleepyTab</h1>
+      <button id="toggleBtn" class="toggle-btn" data-i18n="Loading">
+        <i class="fa-solid fa-circle-half-stroke"></i> 読み込み中...
+      </button>
+    </div>
+
+    <p id="statusText" class="status-text"></p>
+
+
+    <div class="setting-row">
+      <label for="muteToggleCheckbox" data-i18n="MuteTabFeature">タブのミュート機能</label>
+      <input type="checkbox" id="muteToggleCheckbox">
+    </div>
+
+
+    <div class="add-site">
+      <input id="siteInput" type="text" data-i18n-placeholder="AddSitePlaceholder">
+      <button id="addSiteBtn" data-i18n="AddButton">追加</button>
+    </div>
+
+    <ul id="whitelist" class="whitelist"></ul>
+  </div>
+
+  <!-- モーダル -->
+  <div id="confirmModal" class="modal">
+    <div class="modal-content">
+      <p id="modalText" data-i18n="ConfirmDeleteMessage">本当に削除しますか？</p>
+      <div class="modal-buttons">
+        <button id="confirmBtn" class="confirm" data-i18n="DeleteButton">削除</button>
+        <button id="cancelBtn" class="cancel" data-i18n="CancelButton">キャンセル</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
