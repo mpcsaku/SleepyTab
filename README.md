@@ -33,6 +33,18 @@ This project is open-source and available for everyone. Feel free to use, modify
 
 
 
+
+
+
+
+
+
+
+
+
+
+# 😴 SleepyTab
+
 **バックグラウンドのタブで、勝手に動画や音声が再生されていて困っていませんか？ SleepyTabは、見ていないタブのメディアを自動で一時停止・ミュートし、より静かで、集中できるブラウジング体験を作り出します！**
 
 ---
