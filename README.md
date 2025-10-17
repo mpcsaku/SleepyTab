@@ -31,7 +31,7 @@ Your privacy is our top priority.
 
 This project is open-source and available for everyone. Feel free to use, modify, and distribute it.
 
-
+<a href="https://chromewebstore.google.com/detail/sleepytab/ifchnnnlgkdbaicoackmiimagdmadaki?authuser=0&hl=ja">Chrome Web Store</a>
 
 
 
@@ -84,3 +84,5 @@ This project is open-source and available for everyone. Feel free to use, modify
 ## 📝 ライセンス
 
 このプロジェクトはオープンソースであり、誰でも利用することができます。自由に使用、改変、配布してください。
+
+<a href="https://chromewebstore.google.com/detail/sleepytab/ifchnnnlgkdbaicoackmiimagdmadaki?authuser=0&hl=ja">Chrome ウェブストア</a>
