@@ -1,9 +1,9 @@
 {
   "extName": {
-    "message": "SleepyTab"
+    "message": "SleepyTab Video Auto Pause And Playb"
   },
   "extDesc": {
-    "message": "Automatically pause and mute playback when switching away from a tab, and resume and unmute when returning."
+    "message": "Auto pause and mute playback when switching away from a tab, and resume and unmute when returning."
   },
   "Loading": {
     "message": "Loading..."

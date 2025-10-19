@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "SleepyTab"
+    "message": "SleepyTab Video Auto Pause And Play"
   },
   "extDesc": {
     "message": "タブを離れると再生停止・ミュート、戻ると再開・ミュート解除を自動的に行えます"
